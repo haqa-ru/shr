@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shr.API", "shr.API\shr.API.csproj", "{7F03B1DB-176B-4485-8AB1-9FCE01D6695D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F03B1DB-176B-4485-8AB1-9FCE01D6695D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F03B1DB-176B-4485-8AB1-9FCE01D6695D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F03B1DB-176B-4485-8AB1-9FCE01D6695D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F03B1DB-176B-4485-8AB1-9FCE01D6695D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD599CA1-DD72-498B-A011-5C1B0FD51878}
+	EndGlobalSection
+EndGlobal
