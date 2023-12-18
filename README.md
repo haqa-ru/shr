@@ -1,10 +1,10 @@
-![Logo](./assets/shr-logo-512.png)
+![Logo](./assets/shr-logo-preview.png)
 
 # shr │ [![Build Status](https://github.com/haqa-ru/shr/actions/workflows/actions.yml/badge.svg?branch=main&event=push)](https://github.com/haqa-ru/shr/actions/workflows/actions.yml)
 
-Instant sharing utility web interface designed for *programmatic* or *manual* use.
+Instant sharing utility web interface designed for _programmatic_ or _manual_ use.
 
-Originally started as a follow-up to [code.re](https://web.archive.org/web/20200304041752/http://code.re/), we will now pursue the natural extension of this project, moving from *text-sharing* to *file-sharing*.
+Originally started as a follow-up to [code.re](https://web.archive.org/web/20200304041752/http://code.re/), we will now pursue the natural extension of this project, moving from _text-sharing_ to _file-sharing_.
 
 ## Examples
 
